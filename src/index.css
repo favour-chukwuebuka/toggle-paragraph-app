@@ -1,0 +1,23 @@
+.btn {
+  background: blue;
+  color: white;
+  position: relative;
+  margin: 0px 600px;
+  font-size: 40px;
+  width: 150px;
+  top: 80px;
+  border: 1px solid silver;
+  height: 50px;
+}
+
+
+.isError {
+  margin: 90px 600px;
+
+}
+
+
+
+
+
+
